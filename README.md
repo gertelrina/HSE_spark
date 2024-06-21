@@ -24,6 +24,10 @@ block_size = 512m
 driver_mem = 4G
 
 To run: 
+```
+sudo docker exec -it hadoop-spark-cluster_master_1 /bin/bash
+```
+
 In container 
 ```
 cd ~/shared/
