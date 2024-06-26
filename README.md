@@ -46,6 +46,12 @@ Execution time
 |1_slave|0:00:33.125732 |0:00:26.564846|
 |3_slave|0:00:30.492206 |0:00:24.235050|
 
+Optimized
+![image](shared-master/timing_results_optimized.csv_combined_metrics.jpg)
+
+Non Optimized
+![image](shared-master/timing_results.csv_combined_metrics.jpg)
+
 Ram consumption
 | |non_optimized|optimized|
 |---|---|-----------|
